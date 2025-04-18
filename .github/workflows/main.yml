@@ -40,7 +40,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          committer: ${{ github.repository_owner }} <${{ github.repository_owner }}@users.noreply.github.com>
-          author: ${{ github.repository_owner }} <${{ github.repository_owner }}@users.noreply.github.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
