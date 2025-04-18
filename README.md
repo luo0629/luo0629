@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Neflibata
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7D20C&random=true&width=435&lines=Code+flows+as+long+as+life+goes+on.)](https://git.io/typing-svg)
-
+📮📫 How to reach me: [Telegram](https://t.me/luooul0629) | [Email](mailto:luoluocx@gmail.com)
 <!--
 **luo0629/luo0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
